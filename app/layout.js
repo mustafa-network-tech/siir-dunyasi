@@ -3,8 +3,9 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "Şiir Dünyası",
-  description: "Şiir Dünyası – Mavi Kadraj",
+  title: "Şiir Dünyası – Sevda, Hasret ve Ayrılık Şiirleri | Mavi Kadraj",
+  description:
+    "Mavi Kadraj imzalı sevda, hasret ve ayrılık temalı özgün şiirler. Şiir Dünyası’nda kalbe dokunan dizeleri keşfedin.",
 };
 
 export default function RootLayout({ children }) {
