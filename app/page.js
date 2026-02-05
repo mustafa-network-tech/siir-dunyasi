@@ -2,6 +2,12 @@ import poems from "@/data/poems";
 import PoemCard from "@/components/PoemCard";
 import RoseBeads from "@/components/RoseBeads";
 
+export const metadata = {
+  title: "Şiir Dünyası | Sevda, Hasret ve Ayrılık Şiirleri – Mavi Kadraj",
+  description:
+    "Mavi Kadraj imzasıyla sevda, hasret ve ayrılık temalı özgün şiirler. Şiir Dünyası'nda kalpten dizeler.",
+};
+
 const categoryOrder = ["Sevda", "Hasret", "Ayrılık"];
 
 const sortedPoems = [...poems].sort((a, b) => {
