@@ -13,7 +13,7 @@ export const metadata = {
     siteName: "Şiir Dünyası",
     images: [
       {
-        url: "https://www.siirdunyasi.com.tr/og-siir-dunyasi.jpg",
+        url: "https://www.siirdunyasi.com.tr/public/og-siir-dunyasi.jpg",
         width: 1200,
         height: 630
       }
@@ -25,7 +25,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Şiir Dünyası – Mavi Kadraj",
     description: "Sevda, hasret ve ayrılık temalı özgün şiirler.",
-    images: ["https://www.siirdunyasi.com.tr/og-siir-dunyasi.jpg"]
+    images: ["https://www.siirdunyasi.com.tr/public/og-siir-dunyasi.jpg"]
   }
 }
 
